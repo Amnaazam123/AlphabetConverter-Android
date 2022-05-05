@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlphabetConverter</string>
+    <string name="convert">Convert</string>
+    <string name="input">Enter Alphabet</string>
+    <string name="msg">If you enter string rather than character, it will convert very first character of string.</string>
+    <string name="output">Output Here</string>
+</resources>
